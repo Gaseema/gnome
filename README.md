@@ -1,2 +1,2 @@
 # gnome
-View at <https://www.bitballoon.com/sites/gnome>
+View at <http://gnomeweb.bitballoon.com/>
